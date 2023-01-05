@@ -21,7 +21,7 @@ spec:
         - containerPort: 8080
         env:
         - name: GREETING
-          value: Helloo
+          value: Helloo2
         # resources:
         #   requests:
         #     memory: "300Mi"
